@@ -1,0 +1,15 @@
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.exe
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.deps.json
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.runtimeconfig.json
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.dll
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.pdb
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.csproj.AssemblyReference.cache
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.dll
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\DotNetDebugging\obj\Debug\net7.0\refint\DotNetDebugging.dll
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.pdb
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.genruntimeconfig.cache
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\DotNetDebugging\obj\Debug\net7.0\ref\DotNetDebugging.dll

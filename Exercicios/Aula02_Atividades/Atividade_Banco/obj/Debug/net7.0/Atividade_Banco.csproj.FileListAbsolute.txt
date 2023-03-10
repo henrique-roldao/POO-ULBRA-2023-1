@@ -1,0 +1,15 @@
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\Exercicios\Aula02_Atividades\Atividade_Banco\bin\Debug\net7.0\Atividade_Banco.exe
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\Exercicios\Aula02_Atividades\Atividade_Banco\bin\Debug\net7.0\Atividade_Banco.deps.json
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\Exercicios\Aula02_Atividades\Atividade_Banco\bin\Debug\net7.0\Atividade_Banco.runtimeconfig.json
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\Exercicios\Aula02_Atividades\Atividade_Banco\bin\Debug\net7.0\Atividade_Banco.dll
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\Exercicios\Aula02_Atividades\Atividade_Banco\bin\Debug\net7.0\Atividade_Banco.pdb
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\Exercicios\Aula02_Atividades\Atividade_Banco\obj\Debug\net7.0\Atividade_Banco.csproj.AssemblyReference.cache
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\Exercicios\Aula02_Atividades\Atividade_Banco\obj\Debug\net7.0\Atividade_Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\Exercicios\Aula02_Atividades\Atividade_Banco\obj\Debug\net7.0\Atividade_Banco.AssemblyInfoInputs.cache
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\Exercicios\Aula02_Atividades\Atividade_Banco\obj\Debug\net7.0\Atividade_Banco.AssemblyInfo.cs
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\Exercicios\Aula02_Atividades\Atividade_Banco\obj\Debug\net7.0\Atividade_Banco.csproj.CoreCompileInputs.cache
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\Exercicios\Aula02_Atividades\Atividade_Banco\obj\Debug\net7.0\Atividade_Banco.dll
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\Exercicios\Aula02_Atividades\Atividade_Banco\obj\Debug\net7.0\refint\Atividade_Banco.dll
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\Exercicios\Aula02_Atividades\Atividade_Banco\obj\Debug\net7.0\Atividade_Banco.pdb
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\Exercicios\Aula02_Atividades\Atividade_Banco\obj\Debug\net7.0\Atividade_Banco.genruntimeconfig.cache
+C:\Users\Hisuy\Documents\codigos\POO-ULBRA-2023-1\Exercicios\Aula02_Atividades\Atividade_Banco\obj\Debug\net7.0\ref\Atividade_Banco.dll
